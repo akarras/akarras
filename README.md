@@ -18,5 +18,5 @@ I'm Aaron Karras, a software engineer who loves Rust and game development.
 
 ## How to reach me
 
-- 📧 You can email me at akarras@akarras.com
+- 📧 You can email me at aaron@akarras.com
 - 🔗 You can visit my website at https://akarras.com
